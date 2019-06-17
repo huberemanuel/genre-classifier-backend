@@ -1,0 +1,3 @@
+[submodule "genre-classifier"]
+	path = genre-classifier
+	url = https://github.com/huberemanuel/genre-classifier.git
